@@ -1,10 +1,10 @@
 {
-  "name": "react-native-webview-leaflet",
-  "version": "5.0.2",
+  "name": "@uclapi/react-native-webview-leaflet",
+  "version": "5.0.3",
   "description": "A React Native component that uses a React Native WebView to provide a Leaflet map.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/reggie3/react-native-webview-leaflet.git"
+    "url": "git+https://github.com/uclapi/react-native-webview-leaflet.git"
   },
   "keywords": [
     "react-native",
@@ -27,7 +27,7 @@
     "lodash.isequal": "^4.5.0",
     "react-dom": "^16.10.2",
     "react-leaflet": "^2.6.1",
-    "react-native-webview": "^8.0.3"
+    "react-native-webview": "^9.4.0"
   },
   "peerDependencies": {
     "react": "^16.9.0",
